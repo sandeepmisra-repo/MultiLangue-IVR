@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="OutTTS_Fra" version="1.0">
+    <phrase version="1.0">
+        <displayname>YouHaveEntered_Fra</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>YouHaveEntered_Fra.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Confirm_Fra</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Confirm_Fra.wav</audiofile>
+    </phrase>
+</phraseset>

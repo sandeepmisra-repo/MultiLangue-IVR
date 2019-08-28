@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="OutTTS_Spn" version="1.0">
+    <phrase version="1.0">
+        <displayname>YouHaveEnter_Spn</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>YouHaveEntered.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Confirm_Spn</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Confirm.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>YouHaveEnter_Spn_New</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>YouHaveEntered_Spn.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Confirm_Spn_New</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Confirm_Spn.wav</audiofile>
+    </phrase>
+</phraseset>

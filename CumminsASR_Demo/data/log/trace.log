@@ -1,0 +1,1114 @@
+06/07/2019 12:48:40:285  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : SCESession bound to HttpSession 616CA5DC55B12245B0CF9DCE2BC59723
+06/07/2019 12:48:40:286  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Browser Version 2.1.4, terminationURL enabled : true
+06/07/2019 12:48:40:292  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Using SCESession 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo servlet : Start
+06/07/2019 12:48:40:389  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : ** Pushed Stack Frame [/CumminsASR_Demo]
+06/07/2019 12:48:40:402 DEBUG - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Not able to save posted variable information [call_classification]
+06/07/2019 12:48:40:472  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___sessionid to complex: session:sessionid  as [sess5055010]
+06/07/2019 12:48:40:472  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+06/07/2019 12:48:41:112  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : runtime_platform : Desktop
+06/07/2019 12:48:41:112  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : runtime_asr : Desktop Microsoft Speech SAPI
+06/07/2019 12:48:41:123 DEBUG - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Acquiring initial License
+06/07/2019 12:48:41:125  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Acquiring Desktop runtime license
+06/07/2019 12:48:41:125  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Runtime :true
+06/07/2019 12:48:41:125  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : IC :true
+06/07/2019 12:48:41:125  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : CTI :true
+06/07/2019 12:48:41:144 DEBUG - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Grace Period timer cleared
+06/07/2019 12:48:41:145 DEBUG - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : License refresh timer started
+06/07/2019 12:48:41:150  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : MessageType is speech
+06/07/2019 12:48:41:185  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Using SCESession 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo servlet : LogFileIn
+06/07/2019 12:48:41:188  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+06/07/2019 12:48:41:188  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+06/07/2019 12:48:41:188  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+06/07/2019 12:48:41:188  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+06/07/2019 12:48:41:189  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+06/07/2019 12:48:41:189  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___aai to complex: session:aai  as []
+06/07/2019 12:48:41:189  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___ani to complex: session:ani  as [undefined]
+06/07/2019 12:48:41:189  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___calltag to complex: session:calltag  as [unknown]
+06/07/2019 12:48:41:190  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___channel to complex: session:channel  as [0]
+06/07/2019 12:48:41:190  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+06/07/2019 12:48:41:190  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+06/07/2019 12:48:41:190  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___dnis to complex: session:dnis  as [undefined]
+06/07/2019 12:48:41:190  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+06/07/2019 12:48:41:190  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___protocolname to complex: session:protocolname  as [pots]
+06/07/2019 12:48:41:191  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+06/07/2019 12:48:41:191  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+06/07/2019 12:48:41:191  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+06/07/2019 12:48:41:191  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___ucid to complex: session:ucid  as [undefined]
+06/07/2019 12:48:41:192  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___uui to complex: session:uui  as [unknown]
+06/07/2019 12:48:41:192  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+06/07/2019 12:48:41:192  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+06/07/2019 12:48:41:192  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+06/07/2019 12:48:41:192  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+06/07/2019 12:48:41:192  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+06/07/2019 12:48:41:193  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___videofps to complex: session:videofps  as [unknown]
+06/07/2019 12:48:41:193  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+06/07/2019 12:48:41:193  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+06/07/2019 12:48:41:193  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+06/07/2019 12:48:41:193  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+06/07/2019 12:48:41:193  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+06/07/2019 12:48:41:193  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+06/07/2019 12:48:41:193  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+06/07/2019 12:48:41:193  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+06/07/2019 12:48:41:193  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+06/07/2019 12:48:41:250 ERROR - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : sql Exception ---->writing to file
+06/07/2019 12:48:41:257  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Using SCESession 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo servlet : WelcomeAll
+06/07/2019 12:48:49:694  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Using SCESession 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo servlet : SetLangFromDTMF
+06/07/2019 12:48:49:695  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :WelcomeAll___confidence to complex: WelcomeAll:confidence  as [0.949999988079071]
+06/07/2019 12:48:49:696  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :WelcomeAll___inputmode to complex: WelcomeAll:inputmode  as [dtmf]
+06/07/2019 12:48:49:696  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :WelcomeAll___interpretation to complex: WelcomeAll:interpretation  as [4]
+06/07/2019 12:48:49:696  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :WelcomeAll___noinputcount to complex: WelcomeAll:noinputcount  as [0]
+06/07/2019 12:48:49:696  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :WelcomeAll___nomatchcount to complex: WelcomeAll:nomatchcount  as [0]
+06/07/2019 12:48:49:696  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :WelcomeAll___utterance to complex: WelcomeAll:utterance  as [4]
+06/07/2019 12:48:49:696  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :WelcomeAll___value to complex: WelcomeAll:value  as [4]
+06/07/2019 12:48:49:752  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : [condition1] Expression [WelcomeAll:value] Numeric Equal [2]
+06/07/2019 12:48:49:752  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : [condition2] Expression [WelcomeAll:value] Numeric Equal [3]
+06/07/2019 12:48:49:752  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : [condition3] Expression [WelcomeAll:value] Numeric Equal [4]
+06/07/2019 12:48:49:757  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Setting current language [Germany].
+06/07/2019 12:48:49:760  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Assigning [4] to [SelectedLanguage]
+06/07/2019 12:48:49:760  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Using SCESession 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo servlet : SelectAll
+06/07/2019 12:49:09:103  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Using SCESession 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo servlet : StoreDTMF
+06/07/2019 12:49:09:106  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :SelectAll___confidence to complex: SelectAll:confidence  as [0.949999988079071]
+06/07/2019 12:49:09:106  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :SelectAll___inputmode to complex: SelectAll:inputmode  as [dtmf]
+06/07/2019 12:49:09:106  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :SelectAll___interpretation to complex: SelectAll:interpretation  as [4]
+06/07/2019 12:49:09:106  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :SelectAll___noinputcount to complex: SelectAll:noinputcount  as [0]
+06/07/2019 12:49:09:106  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :SelectAll___nomatchcount to complex: SelectAll:nomatchcount  as [0]
+06/07/2019 12:49:09:106  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :SelectAll___utterance to complex: SelectAll:utterance  as [4]
+06/07/2019 12:49:09:107  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :SelectAll___value to complex: SelectAll:value  as [4]
+06/07/2019 12:49:09:163  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Using SCESession 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo servlet : Speak
+06/07/2019 12:49:09:384  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Using SCESession 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo servlet : Record
+06/07/2019 12:49:19:531  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Using SCESession 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo servlet : StoreRecord
+06/07/2019 12:49:19:568  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [6877]
+06/07/2019 12:49:19:568  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_8072750465363970402.wav]
+06/07/2019 12:49:19:568  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [110046]
+06/07/2019 12:49:19:568  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+06/07/2019 12:49:19:621  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+06/07/2019 12:49:19:623  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Using SCESession 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo servlet : SetLanguageForASR
+06/07/2019 12:49:19:676  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Using SCESession 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo servlet : GoogleASR
+06/07/2019 12:49:19:802 ERROR - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : session id:sess5055010 | Error processing request
+ EXCEPTION> 
+java.lang.Exception: java.lang.NullPointerException
+	at com.avaya.sce.runtime.AppServlet.processRequest(AppServlet.java:130)
+	at com.avaya.sce.runtime.SCEServlet.requestHandler(SCEServlet.java:247)
+	at com.avaya.sce.runtime.SCEServlet.doPost(SCEServlet.java:148)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:728)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:467)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:392)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:311)
+	at com.avaya.sce.runtime.SCEServlet.forward(SCEServlet.java:1454)
+	at com.avaya.sce.runtime.BasicServlet.handleRequest(BasicServlet.java:133)
+	at com.avaya.sce.runtime.AppServlet.processRequest(AppServlet.java:96)
+	at com.avaya.sce.runtime.SCEServlet.requestHandler(SCEServlet.java:247)
+	at com.avaya.sce.runtime.SCEServlet.doPost(SCEServlet.java:148)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:728)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:467)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:392)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:311)
+	at com.avaya.sce.runtime.SCEServlet.forward(SCEServlet.java:1454)
+	at com.avaya.sce.runtime.Data.handleRequest(Data.java:184)
+	at com.avaya.sce.runtime.AppServlet.processRequest(AppServlet.java:96)
+	at com.avaya.sce.runtime.SCEServlet.requestHandler(SCEServlet.java:247)
+	at com.avaya.sce.runtime.SCEServlet.doPost(SCEServlet.java:148)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at flow.GoogleASR.servletImplementation(GoogleASR.java:253)
+	at com.avaya.sce.runtime.BasicServlet.handleRequest(BasicServlet.java:112)
+	at com.avaya.sce.runtime.AppServlet.processRequest(AppServlet.java:96)
+	... 58 more
+
+06/07/2019 12:50:19:370  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : HTTP Session lost removing SCESession 616CA5DC55B12245B0CF9DCE2BC59723
+06/07/2019 12:50:19:370  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : SCESession Removed
+06/07/2019 12:50:19:372 DEBUG - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : Removing 1 session stack frames.
+06/07/2019 12:50:19:372  INFO - 616CA5DC55B12245B0CF9DCE2BC59723:/CumminsASR_Demo : ** Popped Stack Frame [/CumminsASR_Demo]
+06/07/2019 12:54:02:724  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : SCESession bound to HttpSession 93652108373C61889B367904252E0B70
+06/07/2019 12:54:02:725  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Browser Version 2.1.4, terminationURL enabled : true
+06/07/2019 12:54:02:727  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : Start
+06/07/2019 12:54:02:756  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : ** Pushed Stack Frame [/CumminsASR_Demo]
+06/07/2019 12:54:02:765 DEBUG - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Not able to save posted variable information [call_classification]
+06/07/2019 12:54:02:765  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___sessionid to complex: session:sessionid  as [sess4718482]
+06/07/2019 12:54:02:765  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+06/07/2019 12:54:03:421  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : runtime_platform : Desktop
+06/07/2019 12:54:03:423  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : runtime_asr : Desktop Microsoft Speech SAPI
+06/07/2019 12:54:03:440  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : MessageType is speech
+06/07/2019 12:54:03:495  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : LogFileIn
+06/07/2019 12:54:03:497  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+06/07/2019 12:54:03:498  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+06/07/2019 12:54:03:498  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+06/07/2019 12:54:03:498  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+06/07/2019 12:54:03:498  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+06/07/2019 12:54:03:499  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___aai to complex: session:aai  as []
+06/07/2019 12:54:03:499  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___ani to complex: session:ani  as [undefined]
+06/07/2019 12:54:03:499  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___calltag to complex: session:calltag  as [unknown]
+06/07/2019 12:54:03:499  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___channel to complex: session:channel  as [0]
+06/07/2019 12:54:03:499  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+06/07/2019 12:54:03:499  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+06/07/2019 12:54:03:499  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___dnis to complex: session:dnis  as [undefined]
+06/07/2019 12:54:03:499  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+06/07/2019 12:54:03:499  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___protocolname to complex: session:protocolname  as [pots]
+06/07/2019 12:54:03:500  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+06/07/2019 12:54:03:500  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+06/07/2019 12:54:03:500  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+06/07/2019 12:54:03:500  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___ucid to complex: session:ucid  as [undefined]
+06/07/2019 12:54:03:500  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___uui to complex: session:uui  as [unknown]
+06/07/2019 12:54:03:501  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+06/07/2019 12:54:03:501  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+06/07/2019 12:54:03:501  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+06/07/2019 12:54:03:501  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+06/07/2019 12:54:03:501  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+06/07/2019 12:54:03:501  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___videofps to complex: session:videofps  as [unknown]
+06/07/2019 12:54:03:501  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+06/07/2019 12:54:03:502  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+06/07/2019 12:54:03:502  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+06/07/2019 12:54:03:502  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+06/07/2019 12:54:03:502  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+06/07/2019 12:54:03:502  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+06/07/2019 12:54:03:502  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+06/07/2019 12:54:03:503  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+06/07/2019 12:54:03:503  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+06/07/2019 12:54:03:556 ERROR - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : sql Exception ---->writing to file
+06/07/2019 12:54:03:602  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : WelcomeAll
+06/07/2019 12:54:12:476  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : SetLangFromDTMF
+06/07/2019 12:54:12:476  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :WelcomeAll___confidence to complex: WelcomeAll:confidence  as [0.949999988079071]
+06/07/2019 12:54:12:476  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :WelcomeAll___inputmode to complex: WelcomeAll:inputmode  as [dtmf]
+06/07/2019 12:54:12:476  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :WelcomeAll___interpretation to complex: WelcomeAll:interpretation  as [2]
+06/07/2019 12:54:12:476  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :WelcomeAll___noinputcount to complex: WelcomeAll:noinputcount  as [0]
+06/07/2019 12:54:12:477  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :WelcomeAll___nomatchcount to complex: WelcomeAll:nomatchcount  as [0]
+06/07/2019 12:54:12:477  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :WelcomeAll___utterance to complex: WelcomeAll:utterance  as [2]
+06/07/2019 12:54:12:478  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :WelcomeAll___value to complex: WelcomeAll:value  as [2]
+06/07/2019 12:54:12:539  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : [condition1] Expression [WelcomeAll:value] Numeric Equal [2]
+06/07/2019 12:54:12:549  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Setting current language [english].
+06/07/2019 12:54:12:560  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Assigning [2] to [SelectedLanguage]
+06/07/2019 12:54:12:563  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : SelectAll
+06/07/2019 12:54:20:607  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : StoreDTMF
+06/07/2019 12:54:20:612  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :SelectAll___confidence to complex: SelectAll:confidence  as [0.949999988079071]
+06/07/2019 12:54:20:613  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :SelectAll___inputmode to complex: SelectAll:inputmode  as [dtmf]
+06/07/2019 12:54:20:613  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :SelectAll___interpretation to complex: SelectAll:interpretation  as [1]
+06/07/2019 12:54:20:615  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :SelectAll___noinputcount to complex: SelectAll:noinputcount  as [0]
+06/07/2019 12:54:20:615  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :SelectAll___nomatchcount to complex: SelectAll:nomatchcount  as [0]
+06/07/2019 12:54:20:615  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :SelectAll___utterance to complex: SelectAll:utterance  as [1]
+06/07/2019 12:54:20:619  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :SelectAll___value to complex: SelectAll:value  as [1]
+06/07/2019 12:54:20:676  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : Speak
+06/07/2019 12:54:20:803  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : Record
+06/07/2019 12:54:24:968  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : StoreRecord
+06/07/2019 12:54:24:987  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [3627]
+06/07/2019 12:54:24:988  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_1278772147316572534.wav]
+06/07/2019 12:54:24:988  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [58046]
+06/07/2019 12:54:24:988  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+06/07/2019 12:54:25:044  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+06/07/2019 12:54:25:044  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : SetLanguageForASR
+06/07/2019 12:54:25:100  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : GoogleASR
+06/07/2019 12:54:29:851  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : ChkErrorASR
+06/07/2019 12:54:29:904  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+06/07/2019 12:54:29:905  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : SetLanguageForTTS
+06/07/2019 12:54:29:964  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : GoogleTTS
+06/07/2019 12:54:33:688  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : ChkErrorTTS
+06/07/2019 12:54:33:747  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : [condition1] Expression [ServerStatusTTS] Numeric Equal [1]
+06/07/2019 12:54:33:756  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Returning false since java.lang.NumberFormatException: empty String
+06/07/2019 12:54:33:757  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : Confirm
+06/07/2019 12:54:54:708  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : Chk
+06/07/2019 12:54:54:709  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :Confirm___confidence to complex: Confirm:confidence  as [0.949999988079071]
+06/07/2019 12:54:54:709  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :Confirm___inputmode to complex: Confirm:inputmode  as [dtmf]
+06/07/2019 12:54:54:709  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :Confirm___interpretation to complex: Confirm:interpretation  as [1]
+06/07/2019 12:54:54:709  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :Confirm___noinputcount to complex: Confirm:noinputcount  as [0]
+06/07/2019 12:54:54:709  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :Confirm___nomatchcount to complex: Confirm:nomatchcount  as [1]
+06/07/2019 12:54:54:709  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :Confirm___utterance to complex: Confirm:utterance  as [1]
+06/07/2019 12:54:54:710  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Storing :Confirm___value to complex: Confirm:value  as [1]
+06/07/2019 12:54:54:763  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : [condition1] Expression [Confirm:value] String Equal Ignorecase [1]
+06/07/2019 12:54:54:764  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : Correct
+06/07/2019 12:54:54:828  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : LogFileOut
+06/07/2019 12:54:54:887  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Using SCESession 93652108373C61889B367904252E0B70:/CumminsASR_Demo servlet : Exit
+06/07/2019 12:54:57:204  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Removing session from AvayaSessionTermination Servlet
+06/07/2019 12:54:57:205  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+06/07/2019 12:54:57:206  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : HTTP Session lost removing SCESession 93652108373C61889B367904252E0B70
+06/07/2019 12:54:57:206  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : SCESession Removed
+06/07/2019 12:54:57:207 DEBUG - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : Removing 1 session stack frames.
+06/07/2019 12:54:57:207  INFO - 93652108373C61889B367904252E0B70:/CumminsASR_Demo : ** Popped Stack Frame [/CumminsASR_Demo]
+06/07/2019 13:00:45:072  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : SCESession bound to HttpSession CD90F88216F39DD1D9B808B25341D2A3
+06/07/2019 13:00:45:072  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Browser Version 2.1.4, terminationURL enabled : true
+06/07/2019 13:00:45:078  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : Start
+06/07/2019 13:00:45:113  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : ** Pushed Stack Frame [/CumminsASR_Demo]
+06/07/2019 13:00:45:133 DEBUG - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Not able to save posted variable information [call_classification]
+06/07/2019 13:00:45:133  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___sessionid to complex: session:sessionid  as [sess5744708]
+06/07/2019 13:00:45:133  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+06/07/2019 13:00:45:779  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : runtime_platform : Desktop
+06/07/2019 13:00:45:780  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : runtime_asr : Desktop Microsoft Speech SAPI
+06/07/2019 13:00:45:785  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : MessageType is speech
+06/07/2019 13:00:45:813  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : LogFileIn
+06/07/2019 13:00:45:815  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+06/07/2019 13:00:45:815  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+06/07/2019 13:00:45:815  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+06/07/2019 13:00:45:815  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+06/07/2019 13:00:45:815  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+06/07/2019 13:00:45:815  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___aai to complex: session:aai  as []
+06/07/2019 13:00:45:815  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___ani to complex: session:ani  as [undefined]
+06/07/2019 13:00:45:817  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___calltag to complex: session:calltag  as [unknown]
+06/07/2019 13:00:45:817  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___channel to complex: session:channel  as [0]
+06/07/2019 13:00:45:817  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+06/07/2019 13:00:45:817  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+06/07/2019 13:00:45:817  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___dnis to complex: session:dnis  as [undefined]
+06/07/2019 13:00:45:817  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+06/07/2019 13:00:45:817  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___protocolname to complex: session:protocolname  as [pots]
+06/07/2019 13:00:45:817  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+06/07/2019 13:00:45:817  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+06/07/2019 13:00:45:817  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+06/07/2019 13:00:45:818  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___ucid to complex: session:ucid  as [undefined]
+06/07/2019 13:00:45:818  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___uui to complex: session:uui  as [unknown]
+06/07/2019 13:00:45:819  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+06/07/2019 13:00:45:819  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+06/07/2019 13:00:45:819  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+06/07/2019 13:00:45:819  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+06/07/2019 13:00:45:819  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+06/07/2019 13:00:45:819  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___videofps to complex: session:videofps  as [unknown]
+06/07/2019 13:00:45:819  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+06/07/2019 13:00:45:820  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+06/07/2019 13:00:45:820  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+06/07/2019 13:00:45:820  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+06/07/2019 13:00:45:820  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+06/07/2019 13:00:45:820  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+06/07/2019 13:00:45:820  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+06/07/2019 13:00:45:820  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+06/07/2019 13:00:45:820  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+06/07/2019 13:00:45:877 ERROR - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : sql Exception ---->writing to file
+06/07/2019 13:00:45:888  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : WelcomeAll
+06/07/2019 13:00:51:717  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : SetLangFromDTMF
+06/07/2019 13:00:51:718  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :WelcomeAll___confidence to complex: WelcomeAll:confidence  as [0.949999988079071]
+06/07/2019 13:00:51:718  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :WelcomeAll___inputmode to complex: WelcomeAll:inputmode  as [dtmf]
+06/07/2019 13:00:51:718  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :WelcomeAll___interpretation to complex: WelcomeAll:interpretation  as [3]
+06/07/2019 13:00:51:719  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :WelcomeAll___noinputcount to complex: WelcomeAll:noinputcount  as [0]
+06/07/2019 13:00:51:719  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :WelcomeAll___nomatchcount to complex: WelcomeAll:nomatchcount  as [0]
+06/07/2019 13:00:51:720  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :WelcomeAll___utterance to complex: WelcomeAll:utterance  as [3]
+06/07/2019 13:00:51:720  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :WelcomeAll___value to complex: WelcomeAll:value  as [3]
+06/07/2019 13:00:51:785  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : [condition1] Expression [WelcomeAll:value] Numeric Equal [2]
+06/07/2019 13:00:51:787  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : [condition2] Expression [WelcomeAll:value] Numeric Equal [3]
+06/07/2019 13:00:51:799  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Setting current language [France].
+06/07/2019 13:00:51:807  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Assigning [3] to [SelectedLanguage]
+06/07/2019 13:00:51:809  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : SelectAll
+06/07/2019 13:01:05:926  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : StoreDTMF
+06/07/2019 13:01:05:927  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :SelectAll___confidence to complex: SelectAll:confidence  as [0.949999988079071]
+06/07/2019 13:01:05:927  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :SelectAll___inputmode to complex: SelectAll:inputmode  as [dtmf]
+06/07/2019 13:01:05:927  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :SelectAll___interpretation to complex: SelectAll:interpretation  as [2]
+06/07/2019 13:01:05:928  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :SelectAll___noinputcount to complex: SelectAll:noinputcount  as [0]
+06/07/2019 13:01:05:928  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :SelectAll___nomatchcount to complex: SelectAll:nomatchcount  as [0]
+06/07/2019 13:01:05:928  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :SelectAll___utterance to complex: SelectAll:utterance  as [2]
+06/07/2019 13:01:05:928  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :SelectAll___value to complex: SelectAll:value  as [2]
+06/07/2019 13:01:05:987  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : Speak
+06/07/2019 13:01:06:143  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : Record
+06/07/2019 13:01:11:924  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : StoreRecord
+06/07/2019 13:01:11:965  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [2627]
+06/07/2019 13:01:11:966  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_5000984559772019056.wav]
+06/07/2019 13:01:11:966  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [42046]
+06/07/2019 13:01:11:966  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+06/07/2019 13:01:12:019  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+06/07/2019 13:01:12:020  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : SetLanguageForASR
+06/07/2019 13:01:12:074  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : GoogleASR
+06/07/2019 13:01:14:254  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : ChkErrorASR
+06/07/2019 13:01:14:309  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+06/07/2019 13:01:14:312  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : SetLanguageForTTS
+06/07/2019 13:01:14:367  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : GoogleTTS
+06/07/2019 13:01:15:750  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : ChkErrorTTS
+06/07/2019 13:01:15:805  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : [condition1] Expression [ServerStatusTTS] Numeric Equal [1]
+06/07/2019 13:01:15:805  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Returning false since java.lang.NumberFormatException: empty String
+06/07/2019 13:01:15:806  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : Confirm
+06/07/2019 13:01:26:895  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : Chk
+06/07/2019 13:01:26:896  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :Confirm___confidence to complex: Confirm:confidence  as [0.949999988079071]
+06/07/2019 13:01:26:896  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :Confirm___inputmode to complex: Confirm:inputmode  as [dtmf]
+06/07/2019 13:01:26:896  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :Confirm___interpretation to complex: Confirm:interpretation  as [1]
+06/07/2019 13:01:26:896  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :Confirm___noinputcount to complex: Confirm:noinputcount  as [0]
+06/07/2019 13:01:26:896  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :Confirm___nomatchcount to complex: Confirm:nomatchcount  as [0]
+06/07/2019 13:01:26:897  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :Confirm___utterance to complex: Confirm:utterance  as [1]
+06/07/2019 13:01:26:897  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Storing :Confirm___value to complex: Confirm:value  as [1]
+06/07/2019 13:01:26:950  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : [condition1] Expression [Confirm:value] String Equal Ignorecase [1]
+06/07/2019 13:01:26:951  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : Correct
+06/07/2019 13:01:27:018  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : LogFileOut
+06/07/2019 13:01:27:085  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Using SCESession CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo servlet : Exit
+06/07/2019 13:01:29:339  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Removing session from AvayaSessionTermination Servlet
+06/07/2019 13:01:29:340  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+06/07/2019 13:01:29:341  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : HTTP Session lost removing SCESession CD90F88216F39DD1D9B808B25341D2A3
+06/07/2019 13:01:29:341  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : SCESession Removed
+06/07/2019 13:01:29:341 DEBUG - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : Removing 1 session stack frames.
+06/07/2019 13:01:29:341  INFO - CD90F88216F39DD1D9B808B25341D2A3:/CumminsASR_Demo : ** Popped Stack Frame [/CumminsASR_Demo]
+08/07/2019 12:17:43:453  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : SCESession bound to HttpSession 63C4CEDB25832112312630DC93CC6133
+08/07/2019 12:17:43:474  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Browser Version 2.1.4, terminationURL enabled : true
+08/07/2019 12:17:43:480  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : Start
+08/07/2019 12:17:43:555  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : ** Pushed Stack Frame [/CumminsASR_Demo]
+08/07/2019 12:17:43:567 DEBUG - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Not able to save posted variable information [call_classification]
+08/07/2019 12:17:43:567  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___sessionid to complex: session:sessionid  as [sess5148818]
+08/07/2019 12:17:43:567  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+08/07/2019 12:17:44:222  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : runtime_platform : Desktop
+08/07/2019 12:17:44:222  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : runtime_asr : Desktop Microsoft Speech SAPI
+08/07/2019 12:17:44:230 DEBUG - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Acquiring initial License
+08/07/2019 12:17:44:230  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Acquiring Desktop runtime license
+08/07/2019 12:17:44:230  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Runtime :true
+08/07/2019 12:17:44:230  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : IC :true
+08/07/2019 12:17:44:230  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : CTI :true
+08/07/2019 12:17:44:248 DEBUG - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Grace Period timer cleared
+08/07/2019 12:17:44:249 DEBUG - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : License refresh timer started
+08/07/2019 12:17:44:256  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : MessageType is speech
+08/07/2019 12:17:44:328  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : LogFileIn
+08/07/2019 12:17:44:330  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+08/07/2019 12:17:44:330  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+08/07/2019 12:17:44:330  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+08/07/2019 12:17:44:330  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+08/07/2019 12:17:44:330  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+08/07/2019 12:17:44:330  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___aai to complex: session:aai  as []
+08/07/2019 12:17:44:330  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___ani to complex: session:ani  as [undefined]
+08/07/2019 12:17:44:330  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___calltag to complex: session:calltag  as [unknown]
+08/07/2019 12:17:44:330  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___channel to complex: session:channel  as [0]
+08/07/2019 12:17:44:334  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+08/07/2019 12:17:44:334  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+08/07/2019 12:17:44:334  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___dnis to complex: session:dnis  as [undefined]
+08/07/2019 12:17:44:334  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+08/07/2019 12:17:44:334  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___protocolname to complex: session:protocolname  as [pots]
+08/07/2019 12:17:44:334  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+08/07/2019 12:17:44:334  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+08/07/2019 12:17:44:334  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+08/07/2019 12:17:44:334  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___ucid to complex: session:ucid  as [undefined]
+08/07/2019 12:17:44:338  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___uui to complex: session:uui  as [unknown]
+08/07/2019 12:17:44:338  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+08/07/2019 12:17:44:338  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+08/07/2019 12:17:44:338  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+08/07/2019 12:17:44:338  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+08/07/2019 12:17:44:339  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+08/07/2019 12:17:44:339  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___videofps to complex: session:videofps  as [unknown]
+08/07/2019 12:17:44:339  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+08/07/2019 12:17:44:339  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+08/07/2019 12:17:44:339  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+08/07/2019 12:17:44:339  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+08/07/2019 12:17:44:340  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+08/07/2019 12:17:44:340  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+08/07/2019 12:17:44:340  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+08/07/2019 12:17:44:340  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+08/07/2019 12:17:44:340  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+08/07/2019 12:17:44:407 ERROR - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : sql Exception ---->writing to file
+08/07/2019 12:17:44:424  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : WelcomeAll
+08/07/2019 12:17:53:651  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : SetLangFromDTMF
+08/07/2019 12:17:53:652  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :WelcomeAll___confidence to complex: WelcomeAll:confidence  as [0.949999988079071]
+08/07/2019 12:17:53:652  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :WelcomeAll___inputmode to complex: WelcomeAll:inputmode  as [dtmf]
+08/07/2019 12:17:53:652  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :WelcomeAll___interpretation to complex: WelcomeAll:interpretation  as [5]
+08/07/2019 12:17:53:652  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :WelcomeAll___noinputcount to complex: WelcomeAll:noinputcount  as [0]
+08/07/2019 12:17:53:653  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :WelcomeAll___nomatchcount to complex: WelcomeAll:nomatchcount  as [0]
+08/07/2019 12:17:53:653  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :WelcomeAll___utterance to complex: WelcomeAll:utterance  as [5]
+08/07/2019 12:17:53:654  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :WelcomeAll___value to complex: WelcomeAll:value  as [5]
+08/07/2019 12:17:53:722  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : [condition1] Expression [WelcomeAll:value] Numeric Equal [2]
+08/07/2019 12:17:53:722  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : [condition2] Expression [WelcomeAll:value] Numeric Equal [3]
+08/07/2019 12:17:53:722  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : [condition3] Expression [WelcomeAll:value] Numeric Equal [4]
+08/07/2019 12:17:53:722  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : [condition4] Expression [WelcomeAll:value] Numeric Equal [5]
+08/07/2019 12:17:53:731  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Setting current language [Spanish].
+08/07/2019 12:17:53:732  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Assigning [5] to [SelectedLanguage]
+08/07/2019 12:17:53:732  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : SelectAll
+08/07/2019 12:18:06:093  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : StoreDTMF
+08/07/2019 12:18:06:093  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :SelectAll___confidence to complex: SelectAll:confidence  as [0.949999988079071]
+08/07/2019 12:18:06:094  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :SelectAll___inputmode to complex: SelectAll:inputmode  as [dtmf]
+08/07/2019 12:18:06:094  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :SelectAll___interpretation to complex: SelectAll:interpretation  as [1]
+08/07/2019 12:18:06:094  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :SelectAll___noinputcount to complex: SelectAll:noinputcount  as [0]
+08/07/2019 12:18:06:094  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :SelectAll___nomatchcount to complex: SelectAll:nomatchcount  as [0]
+08/07/2019 12:18:06:095  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :SelectAll___utterance to complex: SelectAll:utterance  as [1]
+08/07/2019 12:18:06:095  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :SelectAll___value to complex: SelectAll:value  as [1]
+08/07/2019 12:18:06:161  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : Speak
+08/07/2019 12:18:06:308  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : Record
+08/07/2019 12:18:10:358  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : StoreRecord
+08/07/2019 12:18:10:383  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [3377]
+08/07/2019 12:18:10:384  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_7944305705804608285.wav]
+08/07/2019 12:18:10:384  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [54046]
+08/07/2019 12:18:10:384  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+08/07/2019 12:18:10:443  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+08/07/2019 12:18:10:444  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : SetLanguageForASR
+08/07/2019 12:18:10:503  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : GoogleASR
+08/07/2019 12:18:13:814  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : ChkErrorASR
+08/07/2019 12:18:13:884  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+08/07/2019 12:18:13:886  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : SetLanguageForTTS
+08/07/2019 12:18:13:953  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : GoogleTTS
+08/07/2019 12:18:15:622  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : ChkErrorTTS
+08/07/2019 12:18:15:688  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : [condition1] Expression [ServerStatusTTS] Numeric Equal [1]
+08/07/2019 12:18:15:690  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Returning false since java.lang.NumberFormatException: empty String
+08/07/2019 12:18:15:709  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : Confirm
+08/07/2019 12:18:23:913  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : Chk
+08/07/2019 12:18:23:913  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___confidence to complex: Confirm:confidence  as [0.949999988079071]
+08/07/2019 12:18:23:913  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___inputmode to complex: Confirm:inputmode  as [dtmf]
+08/07/2019 12:18:23:913  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___interpretation to complex: Confirm:interpretation  as [2]
+08/07/2019 12:18:23:913  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___noinputcount to complex: Confirm:noinputcount  as [0]
+08/07/2019 12:18:23:913  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___nomatchcount to complex: Confirm:nomatchcount  as [0]
+08/07/2019 12:18:23:913  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___utterance to complex: Confirm:utterance  as [2]
+08/07/2019 12:18:23:914  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___value to complex: Confirm:value  as [2]
+08/07/2019 12:18:23:968  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : [condition1] Expression [Confirm:value] String Equal Ignorecase [1]
+08/07/2019 12:18:23:968  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : Speak
+08/07/2019 12:18:24:046  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : Record
+08/07/2019 12:18:28:682  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : StoreRecord
+08/07/2019 12:18:28:695  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [4127]
+08/07/2019 12:18:28:697  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_7882394158475202810.wav]
+08/07/2019 12:18:28:697  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [66046]
+08/07/2019 12:18:28:697  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+08/07/2019 12:18:28:751  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+08/07/2019 12:18:28:753  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : SetLanguageForASR
+08/07/2019 12:18:28:818  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : GoogleASR
+08/07/2019 12:18:31:731  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : ChkErrorASR
+08/07/2019 12:18:31:797  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+08/07/2019 12:18:31:798  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : SetLanguageForTTS
+08/07/2019 12:18:31:868  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : GoogleTTS
+08/07/2019 12:18:33:214  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : ChkErrorTTS
+08/07/2019 12:18:33:268  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : [condition1] Expression [ServerStatusTTS] Numeric Equal [1]
+08/07/2019 12:18:33:270  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Returning false since java.lang.NumberFormatException: empty String
+08/07/2019 12:18:33:272  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : Confirm
+08/07/2019 12:18:48:730  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : Chk
+08/07/2019 12:18:48:730  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___confidence to complex: Confirm:confidence  as [0.949999988079071]
+08/07/2019 12:18:48:731  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___inputmode to complex: Confirm:inputmode  as [dtmf]
+08/07/2019 12:18:48:731  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___interpretation to complex: Confirm:interpretation  as [1]
+08/07/2019 12:18:48:732  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___noinputcount to complex: Confirm:noinputcount  as [0]
+08/07/2019 12:18:48:732  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___nomatchcount to complex: Confirm:nomatchcount  as [0]
+08/07/2019 12:18:48:732  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___utterance to complex: Confirm:utterance  as [1]
+08/07/2019 12:18:48:733  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Storing :Confirm___value to complex: Confirm:value  as [1]
+08/07/2019 12:18:48:801  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : [condition1] Expression [Confirm:value] String Equal Ignorecase [1]
+08/07/2019 12:18:48:810  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : Correct
+08/07/2019 12:18:48:873  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : LogFileOut
+08/07/2019 12:18:48:941  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Using SCESession 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo servlet : Exit
+08/07/2019 12:18:51:701  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Removing session from AvayaSessionTermination Servlet
+08/07/2019 12:18:51:709  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+08/07/2019 12:18:51:711  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : HTTP Session lost removing SCESession 63C4CEDB25832112312630DC93CC6133
+08/07/2019 12:18:51:711  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : SCESession Removed
+08/07/2019 12:18:51:714 DEBUG - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : Removing 1 session stack frames.
+08/07/2019 12:18:51:719  INFO - 63C4CEDB25832112312630DC93CC6133:/CumminsASR_Demo : ** Popped Stack Frame [/CumminsASR_Demo]
+08/07/2019 12:22:17:844  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : SCESession bound to HttpSession 844565B34F0F16D50C1B3C1666A588F2
+08/07/2019 12:22:17:844  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Browser Version 2.1.4, terminationURL enabled : true
+08/07/2019 12:22:17:848  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : Start
+08/07/2019 12:22:17:854  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : ** Pushed Stack Frame [/CumminsASR_Demo]
+08/07/2019 12:22:17:854 DEBUG - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Not able to save posted variable information [call_classification]
+08/07/2019 12:22:17:854  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___sessionid to complex: session:sessionid  as [sess7553679]
+08/07/2019 12:22:17:854  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+08/07/2019 12:22:18:462  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : runtime_platform : Desktop
+08/07/2019 12:22:18:462  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : runtime_asr : Desktop Microsoft Speech SAPI
+08/07/2019 12:22:18:465  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : MessageType is speech
+08/07/2019 12:22:18:495  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : LogFileIn
+08/07/2019 12:22:18:499  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+08/07/2019 12:22:18:499  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+08/07/2019 12:22:18:500  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+08/07/2019 12:22:18:500  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+08/07/2019 12:22:18:500  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+08/07/2019 12:22:18:500  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___aai to complex: session:aai  as []
+08/07/2019 12:22:18:500  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___ani to complex: session:ani  as [undefined]
+08/07/2019 12:22:18:501  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___calltag to complex: session:calltag  as [unknown]
+08/07/2019 12:22:18:501  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___channel to complex: session:channel  as [0]
+08/07/2019 12:22:18:503  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+08/07/2019 12:22:18:503  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+08/07/2019 12:22:18:503  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___dnis to complex: session:dnis  as [undefined]
+08/07/2019 12:22:18:504  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+08/07/2019 12:22:18:504  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___protocolname to complex: session:protocolname  as [pots]
+08/07/2019 12:22:18:504  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+08/07/2019 12:22:18:506  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+08/07/2019 12:22:18:507  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+08/07/2019 12:22:18:507  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___ucid to complex: session:ucid  as [undefined]
+08/07/2019 12:22:18:508  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___uui to complex: session:uui  as [unknown]
+08/07/2019 12:22:18:509  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+08/07/2019 12:22:18:509  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+08/07/2019 12:22:18:510  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+08/07/2019 12:22:18:510  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+08/07/2019 12:22:18:511  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+08/07/2019 12:22:18:511  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___videofps to complex: session:videofps  as [unknown]
+08/07/2019 12:22:18:511  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+08/07/2019 12:22:18:511  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+08/07/2019 12:22:18:511  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+08/07/2019 12:22:18:514  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+08/07/2019 12:22:18:515  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+08/07/2019 12:22:18:515  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+08/07/2019 12:22:18:515  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+08/07/2019 12:22:18:515  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+08/07/2019 12:22:18:517  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+08/07/2019 12:22:18:571 ERROR - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : sql Exception ---->writing to file
+08/07/2019 12:22:18:580  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : WelcomeAll
+08/07/2019 12:22:22:326  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : SetLangFromDTMF
+08/07/2019 12:22:22:327  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :WelcomeAll___confidence to complex: WelcomeAll:confidence  as [0.949999988079071]
+08/07/2019 12:22:22:327  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :WelcomeAll___inputmode to complex: WelcomeAll:inputmode  as [dtmf]
+08/07/2019 12:22:22:327  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :WelcomeAll___interpretation to complex: WelcomeAll:interpretation  as [2]
+08/07/2019 12:22:22:327  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :WelcomeAll___noinputcount to complex: WelcomeAll:noinputcount  as [0]
+08/07/2019 12:22:22:327  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :WelcomeAll___nomatchcount to complex: WelcomeAll:nomatchcount  as [0]
+08/07/2019 12:22:22:327  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :WelcomeAll___utterance to complex: WelcomeAll:utterance  as [2]
+08/07/2019 12:22:22:327  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :WelcomeAll___value to complex: WelcomeAll:value  as [2]
+08/07/2019 12:22:22:379  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : [condition1] Expression [WelcomeAll:value] Numeric Equal [2]
+08/07/2019 12:22:22:379  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Setting current language [english].
+08/07/2019 12:22:22:384  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Assigning [2] to [SelectedLanguage]
+08/07/2019 12:22:22:385  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : SelectAll
+08/07/2019 12:22:32:309  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : StoreDTMF
+08/07/2019 12:22:32:310  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :SelectAll___confidence to complex: SelectAll:confidence  as [0.949999988079071]
+08/07/2019 12:22:32:310  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :SelectAll___inputmode to complex: SelectAll:inputmode  as [dtmf]
+08/07/2019 12:22:32:310  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :SelectAll___interpretation to complex: SelectAll:interpretation  as [2]
+08/07/2019 12:22:32:311  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :SelectAll___noinputcount to complex: SelectAll:noinputcount  as [0]
+08/07/2019 12:22:32:311  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :SelectAll___nomatchcount to complex: SelectAll:nomatchcount  as [0]
+08/07/2019 12:22:32:311  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :SelectAll___utterance to complex: SelectAll:utterance  as [2]
+08/07/2019 12:22:32:311  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :SelectAll___value to complex: SelectAll:value  as [2]
+08/07/2019 12:22:32:366  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : Speak
+08/07/2019 12:22:32:486  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : Record
+08/07/2019 12:22:36:467  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : StoreRecord
+08/07/2019 12:22:36:486  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [3502]
+08/07/2019 12:22:36:486  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_2873779955782231415.wav]
+08/07/2019 12:22:36:486  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [56046]
+08/07/2019 12:22:36:487  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+08/07/2019 12:22:36:538  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+08/07/2019 12:22:36:539  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : SetLanguageForASR
+08/07/2019 12:22:36:592  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : GoogleASR
+08/07/2019 12:22:39:758  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : ChkErrorASR
+08/07/2019 12:22:39:815  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+08/07/2019 12:22:39:815  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : SetLanguageForTTS
+08/07/2019 12:22:39:869  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : GoogleTTS
+08/07/2019 12:22:41:296  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : ChkErrorTTS
+08/07/2019 12:22:41:356  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : [condition1] Expression [ServerStatusTTS] Numeric Equal [1]
+08/07/2019 12:22:41:356  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Returning false since java.lang.NumberFormatException: empty String
+08/07/2019 12:22:41:358  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : Confirm
+08/07/2019 12:22:49:433  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : Chk
+08/07/2019 12:22:49:433  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___confidence to complex: Confirm:confidence  as [0.949999988079071]
+08/07/2019 12:22:49:437  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___inputmode to complex: Confirm:inputmode  as [dtmf]
+08/07/2019 12:22:49:437  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___interpretation to complex: Confirm:interpretation  as [2]
+08/07/2019 12:22:49:437  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___noinputcount to complex: Confirm:noinputcount  as [0]
+08/07/2019 12:22:49:437  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___nomatchcount to complex: Confirm:nomatchcount  as [0]
+08/07/2019 12:22:49:437  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___utterance to complex: Confirm:utterance  as [2]
+08/07/2019 12:22:49:438  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___value to complex: Confirm:value  as [2]
+08/07/2019 12:22:49:496  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : [condition1] Expression [Confirm:value] String Equal Ignorecase [1]
+08/07/2019 12:22:49:496  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : Speak
+08/07/2019 12:22:49:562  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : Record
+08/07/2019 12:22:53:659  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : StoreRecord
+08/07/2019 12:22:53:679  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [3627]
+08/07/2019 12:22:53:680  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_2708378571299566983.wav]
+08/07/2019 12:22:53:680  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [58046]
+08/07/2019 12:22:53:680  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+08/07/2019 12:22:53:736  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+08/07/2019 12:22:53:736  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : SetLanguageForASR
+08/07/2019 12:22:53:794  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : GoogleASR
+08/07/2019 12:22:56:103  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : ChkErrorASR
+08/07/2019 12:22:56:163  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+08/07/2019 12:22:56:163  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : SetLanguageForTTS
+08/07/2019 12:22:56:217  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : GoogleTTS
+08/07/2019 12:22:57:452  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : ChkErrorTTS
+08/07/2019 12:22:57:506  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : [condition1] Expression [ServerStatusTTS] Numeric Equal [1]
+08/07/2019 12:22:57:506  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Returning false since java.lang.NumberFormatException: empty String
+08/07/2019 12:22:57:507  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : Confirm
+08/07/2019 12:23:03:626  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : Chk
+08/07/2019 12:23:03:627  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___confidence to complex: Confirm:confidence  as [0.949999988079071]
+08/07/2019 12:23:03:627  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___inputmode to complex: Confirm:inputmode  as [dtmf]
+08/07/2019 12:23:03:627  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___interpretation to complex: Confirm:interpretation  as [1]
+08/07/2019 12:23:03:627  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___noinputcount to complex: Confirm:noinputcount  as [0]
+08/07/2019 12:23:03:627  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___nomatchcount to complex: Confirm:nomatchcount  as [0]
+08/07/2019 12:23:03:628  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___utterance to complex: Confirm:utterance  as [1]
+08/07/2019 12:23:03:628  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Storing :Confirm___value to complex: Confirm:value  as [1]
+08/07/2019 12:23:03:681  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : [condition1] Expression [Confirm:value] String Equal Ignorecase [1]
+08/07/2019 12:23:03:681  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : Correct
+08/07/2019 12:23:03:751  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : LogFileOut
+08/07/2019 12:23:03:813  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Using SCESession 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo servlet : Exit
+08/07/2019 12:27:23:310  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : HTTP Session lost removing SCESession 844565B34F0F16D50C1B3C1666A588F2
+08/07/2019 12:27:23:310  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : SCESession Removed
+08/07/2019 12:27:23:312 DEBUG - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : Removing 1 session stack frames.
+08/07/2019 12:27:23:312  INFO - 844565B34F0F16D50C1B3C1666A588F2:/CumminsASR_Demo : ** Popped Stack Frame [/CumminsASR_Demo]
+08/07/2019 14:10:56:670  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : SCESession bound to HttpSession 7117F52FD28F4467E106EE8EB47D3081
+08/07/2019 14:10:56:700  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Browser Version 2.1.4, terminationURL enabled : true
+08/07/2019 14:10:56:710  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Start
+08/07/2019 14:10:56:810  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : ** Pushed Stack Frame [/CumminsASR_Demo]
+08/07/2019 14:10:56:820 DEBUG - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Not able to save posted variable information [call_classification]
+08/07/2019 14:10:56:820  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___sessionid to complex: session:sessionid  as [sess1302844]
+08/07/2019 14:10:56:820  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+08/07/2019 14:10:57:490  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : runtime_platform : Desktop
+08/07/2019 14:10:57:490  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : runtime_asr : Desktop Microsoft Speech SAPI
+08/07/2019 14:10:57:490 DEBUG - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Refreshing License
+08/07/2019 14:10:57:490  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Acquiring Desktop runtime license
+08/07/2019 14:10:57:490  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Runtime :true
+08/07/2019 14:10:57:490  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : IC :true
+08/07/2019 14:10:57:490  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : CTI :true
+08/07/2019 14:10:57:513 DEBUG - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Grace Period timer cleared
+08/07/2019 14:10:57:513 DEBUG - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : License refresh timer started
+08/07/2019 14:10:57:520  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : MessageType is speech
+08/07/2019 14:10:57:534  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : LogFileIn
+08/07/2019 14:10:57:540  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+08/07/2019 14:10:57:540  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___aai to complex: session:aai  as []
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___ani to complex: session:ani  as [undefined]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___calltag to complex: session:calltag  as [unknown]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___channel to complex: session:channel  as [0]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___dnis to complex: session:dnis  as [undefined]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___protocolname to complex: session:protocolname  as [pots]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___ucid to complex: session:ucid  as [undefined]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___uui to complex: session:uui  as [unknown]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___videofps to complex: session:videofps  as [unknown]
+08/07/2019 14:10:57:542  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+08/07/2019 14:10:57:548  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+08/07/2019 14:10:57:548  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+08/07/2019 14:10:57:548  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+08/07/2019 14:10:57:548  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+08/07/2019 14:10:57:548  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+08/07/2019 14:10:57:548  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+08/07/2019 14:10:57:548  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+08/07/2019 14:10:57:548  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+08/07/2019 14:10:57:600 ERROR - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : sql Exception ---->writing to file
+08/07/2019 14:10:57:642  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : WelcomeAll
+08/07/2019 14:11:05:817  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : SetLangFromDTMF
+08/07/2019 14:11:05:817  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :WelcomeAll___confidence to complex: WelcomeAll:confidence  as [0.949999988079071]
+08/07/2019 14:11:05:824  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :WelcomeAll___inputmode to complex: WelcomeAll:inputmode  as [dtmf]
+08/07/2019 14:11:05:824  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :WelcomeAll___interpretation to complex: WelcomeAll:interpretation  as [2]
+08/07/2019 14:11:05:824  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :WelcomeAll___noinputcount to complex: WelcomeAll:noinputcount  as [0]
+08/07/2019 14:11:05:824  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :WelcomeAll___nomatchcount to complex: WelcomeAll:nomatchcount  as [0]
+08/07/2019 14:11:05:824  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :WelcomeAll___utterance to complex: WelcomeAll:utterance  as [2]
+08/07/2019 14:11:05:824  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :WelcomeAll___value to complex: WelcomeAll:value  as [2]
+08/07/2019 14:11:05:886  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : [condition1] Expression [WelcomeAll:value] Numeric Equal [2]
+08/07/2019 14:11:05:886  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Setting current language [english].
+08/07/2019 14:11:05:901  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Assigning [2] to [SelectedLanguage]
+08/07/2019 14:11:05:901  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : SelectAll
+08/07/2019 14:11:10:014  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : StoreDTMF
+08/07/2019 14:11:10:014  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :SelectAll___confidence to complex: SelectAll:confidence  as [0.949999988079071]
+08/07/2019 14:11:10:016  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :SelectAll___inputmode to complex: SelectAll:inputmode  as [dtmf]
+08/07/2019 14:11:10:016  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :SelectAll___interpretation to complex: SelectAll:interpretation  as [5]
+08/07/2019 14:11:10:016  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :SelectAll___noinputcount to complex: SelectAll:noinputcount  as [0]
+08/07/2019 14:11:10:016  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :SelectAll___nomatchcount to complex: SelectAll:nomatchcount  as [0]
+08/07/2019 14:11:10:016  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :SelectAll___utterance to complex: SelectAll:utterance  as [5]
+08/07/2019 14:11:10:017  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :SelectAll___value to complex: SelectAll:value  as [5]
+08/07/2019 14:11:10:070  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Speak
+08/07/2019 14:11:10:244  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Record
+08/07/2019 14:11:13:715  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : StoreRecord
+08/07/2019 14:11:13:792  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [2877]
+08/07/2019 14:11:13:792  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_5218750245523041300.wav]
+08/07/2019 14:11:13:792  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [46046]
+08/07/2019 14:11:13:792  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+08/07/2019 14:11:13:846  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+08/07/2019 14:11:13:846  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : SetLanguageForASR
+08/07/2019 14:11:13:908  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : GoogleASR
+08/07/2019 14:11:18:680  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : ChkErrorASR
+08/07/2019 14:11:18:736  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+08/07/2019 14:11:18:736  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : SetLanguageForTTS
+08/07/2019 14:11:18:798  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : GoogleTTS
+08/07/2019 14:11:22:604  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : ChkErrorTTS
+08/07/2019 14:11:22:657  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : [condition1] Expression [ServerStatusTTS] Numeric Equal [1]
+08/07/2019 14:11:22:657  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Returning false since java.lang.NumberFormatException: empty String
+08/07/2019 14:11:22:657  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Confirm
+08/07/2019 14:11:27:965  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Chk
+08/07/2019 14:11:27:975  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___confidence to complex: Confirm:confidence  as [0.949999988079071]
+08/07/2019 14:11:27:975  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___inputmode to complex: Confirm:inputmode  as [dtmf]
+08/07/2019 14:11:27:975  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___interpretation to complex: Confirm:interpretation  as [2]
+08/07/2019 14:11:27:975  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___noinputcount to complex: Confirm:noinputcount  as [0]
+08/07/2019 14:11:27:975  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___nomatchcount to complex: Confirm:nomatchcount  as [0]
+08/07/2019 14:11:27:975  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___utterance to complex: Confirm:utterance  as [2]
+08/07/2019 14:11:27:975  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___value to complex: Confirm:value  as [2]
+08/07/2019 14:11:28:035  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : [condition1] Expression [Confirm:value] String Equal Ignorecase [1]
+08/07/2019 14:11:28:035  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Speak
+08/07/2019 14:11:28:095  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Record
+08/07/2019 14:11:31:299  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : StoreRecord
+08/07/2019 14:11:31:337  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [2752]
+08/07/2019 14:11:31:337  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_3320745630268489803.wav]
+08/07/2019 14:11:31:337  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [44046]
+08/07/2019 14:11:31:337  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+08/07/2019 14:11:31:399  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+08/07/2019 14:11:31:399  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : SetLanguageForASR
+08/07/2019 14:11:31:453  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : GoogleASR
+08/07/2019 14:11:34:671  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : ChkErrorASR
+08/07/2019 14:11:34:744  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+08/07/2019 14:11:34:744  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : SetLanguageForTTS
+08/07/2019 14:11:34:806  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : GoogleTTS
+08/07/2019 14:11:36:992  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : ChkErrorTTS
+08/07/2019 14:11:37:045  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : [condition1] Expression [ServerStatusTTS] Numeric Equal [1]
+08/07/2019 14:11:37:045  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Returning false since java.lang.NumberFormatException: empty String
+08/07/2019 14:11:37:045  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Confirm
+08/07/2019 14:11:41:743  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Chk
+08/07/2019 14:11:41:743  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___confidence to complex: Confirm:confidence  as [0.949999988079071]
+08/07/2019 14:11:41:750  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___inputmode to complex: Confirm:inputmode  as [dtmf]
+08/07/2019 14:11:41:750  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___interpretation to complex: Confirm:interpretation  as [2]
+08/07/2019 14:11:41:751  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___noinputcount to complex: Confirm:noinputcount  as [0]
+08/07/2019 14:11:41:751  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___nomatchcount to complex: Confirm:nomatchcount  as [0]
+08/07/2019 14:11:41:751  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___utterance to complex: Confirm:utterance  as [2]
+08/07/2019 14:11:41:751  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___value to complex: Confirm:value  as [2]
+08/07/2019 14:11:41:812  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : [condition1] Expression [Confirm:value] String Equal Ignorecase [1]
+08/07/2019 14:11:41:812  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Speak
+08/07/2019 14:11:41:873  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Record
+08/07/2019 14:11:45:500  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : StoreRecord
+08/07/2019 14:11:45:522  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [3127]
+08/07/2019 14:11:45:522  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_7851112770207962400.wav]
+08/07/2019 14:11:45:537  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [50046]
+08/07/2019 14:11:45:537  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+08/07/2019 14:11:45:600  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+08/07/2019 14:11:45:600  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : SetLanguageForASR
+08/07/2019 14:11:45:653  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : GoogleASR
+08/07/2019 14:11:49:000  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : ChkErrorASR
+08/07/2019 14:11:49:056  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+08/07/2019 14:11:49:056  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : SetLanguageForTTS
+08/07/2019 14:11:49:119  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : GoogleTTS
+08/07/2019 14:11:51:594  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : ChkErrorTTS
+08/07/2019 14:11:51:663  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : [condition1] Expression [ServerStatusTTS] Numeric Equal [1]
+08/07/2019 14:11:51:663  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Returning false since java.lang.NumberFormatException: empty String
+08/07/2019 14:11:51:663  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Confirm
+08/07/2019 14:11:56:891  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Chk
+08/07/2019 14:11:56:901  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___confidence to complex: Confirm:confidence  as [0.949999988079071]
+08/07/2019 14:11:56:901  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___inputmode to complex: Confirm:inputmode  as [dtmf]
+08/07/2019 14:11:56:901  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___interpretation to complex: Confirm:interpretation  as [1]
+08/07/2019 14:11:56:901  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___noinputcount to complex: Confirm:noinputcount  as [0]
+08/07/2019 14:11:56:901  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___nomatchcount to complex: Confirm:nomatchcount  as [0]
+08/07/2019 14:11:56:901  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___utterance to complex: Confirm:utterance  as [1]
+08/07/2019 14:11:56:901  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Storing :Confirm___value to complex: Confirm:value  as [1]
+08/07/2019 14:11:56:961  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : [condition1] Expression [Confirm:value] String Equal Ignorecase [1]
+08/07/2019 14:11:56:961  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Correct
+08/07/2019 14:11:57:061  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : LogFileOut
+08/07/2019 14:11:57:125  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Using SCESession 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo servlet : Exit
+08/07/2019 14:11:59:721  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Removing session from AvayaSessionTermination Servlet
+08/07/2019 14:11:59:724  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+08/07/2019 14:11:59:724  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : HTTP Session lost removing SCESession 7117F52FD28F4467E106EE8EB47D3081
+08/07/2019 14:11:59:724  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : SCESession Removed
+08/07/2019 14:11:59:725 DEBUG - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : Removing 1 session stack frames.
+08/07/2019 14:11:59:726  INFO - 7117F52FD28F4467E106EE8EB47D3081:/CumminsASR_Demo : ** Popped Stack Frame [/CumminsASR_Demo]
+25/07/2019 10:00:12:841  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : SCESession bound to HttpSession E336CA6D5EC9C5BB2829CDBEF525636C
+25/07/2019 10:00:12:850  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Browser Version 2.1.4, terminationURL enabled : true
+25/07/2019 10:00:12:853  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : Start
+25/07/2019 10:00:12:924  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : ** Pushed Stack Frame [/CumminsASR_Demo]
+25/07/2019 10:00:12:932 DEBUG - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Not able to save posted variable information [call_classification]
+25/07/2019 10:00:12:933  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___sessionid to complex: session:sessionid  as [sess8509491]
+25/07/2019 10:00:12:933  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+25/07/2019 10:00:13:550  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : runtime_platform : Desktop
+25/07/2019 10:00:13:550  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : runtime_asr : Desktop Microsoft Speech SAPI
+25/07/2019 10:00:13:554  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : MessageType is speech
+25/07/2019 10:00:13:566  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : LogFileIn
+25/07/2019 10:00:13:567  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+25/07/2019 10:00:13:568  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+25/07/2019 10:00:13:568  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+25/07/2019 10:00:13:568  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+25/07/2019 10:00:13:568  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+25/07/2019 10:00:13:568  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___aai to complex: session:aai  as []
+25/07/2019 10:00:13:568  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___ani to complex: session:ani  as [undefined]
+25/07/2019 10:00:13:569  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___calltag to complex: session:calltag  as [unknown]
+25/07/2019 10:00:13:569  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___channel to complex: session:channel  as [0]
+25/07/2019 10:00:13:569  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+25/07/2019 10:00:13:569  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+25/07/2019 10:00:13:569  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___dnis to complex: session:dnis  as [undefined]
+25/07/2019 10:00:13:569  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+25/07/2019 10:00:13:570  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___protocolname to complex: session:protocolname  as [pots]
+25/07/2019 10:00:13:570  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+25/07/2019 10:00:13:570  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+25/07/2019 10:00:13:570  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+25/07/2019 10:00:13:570  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___ucid to complex: session:ucid  as [undefined]
+25/07/2019 10:00:13:570  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___uui to complex: session:uui  as [unknown]
+25/07/2019 10:00:13:570  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+25/07/2019 10:00:13:571  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+25/07/2019 10:00:13:571  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+25/07/2019 10:00:13:571  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+25/07/2019 10:00:13:571  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+25/07/2019 10:00:13:571  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___videofps to complex: session:videofps  as [unknown]
+25/07/2019 10:00:13:571  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+25/07/2019 10:00:13:571  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+25/07/2019 10:00:13:571  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+25/07/2019 10:00:13:572  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+25/07/2019 10:00:13:572  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+25/07/2019 10:00:13:572  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+25/07/2019 10:00:13:572  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+25/07/2019 10:00:13:572  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+25/07/2019 10:00:13:572  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+25/07/2019 10:00:13:626 ERROR - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : sql Exception ---->writing to file
+25/07/2019 10:00:13:665  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : WelcomeAll
+25/07/2019 10:00:23:655  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : SetLangFromDTMF
+25/07/2019 10:00:23:655  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :WelcomeAll___confidence to complex: WelcomeAll:confidence  as [0.949999988079071]
+25/07/2019 10:00:23:656  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :WelcomeAll___inputmode to complex: WelcomeAll:inputmode  as [dtmf]
+25/07/2019 10:00:23:656  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :WelcomeAll___interpretation to complex: WelcomeAll:interpretation  as [5]
+25/07/2019 10:00:23:656  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :WelcomeAll___noinputcount to complex: WelcomeAll:noinputcount  as [0]
+25/07/2019 10:00:23:656  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :WelcomeAll___nomatchcount to complex: WelcomeAll:nomatchcount  as [0]
+25/07/2019 10:00:23:656  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :WelcomeAll___utterance to complex: WelcomeAll:utterance  as [5]
+25/07/2019 10:00:23:656  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :WelcomeAll___value to complex: WelcomeAll:value  as [5]
+25/07/2019 10:00:23:711  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : [condition1] Expression [WelcomeAll:value] Numeric Equal [2]
+25/07/2019 10:00:23:711  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : [condition2] Expression [WelcomeAll:value] Numeric Equal [3]
+25/07/2019 10:00:23:711  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : [condition3] Expression [WelcomeAll:value] Numeric Equal [4]
+25/07/2019 10:00:23:712  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : [condition4] Expression [WelcomeAll:value] Numeric Equal [5]
+25/07/2019 10:00:23:716  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Setting current language [Spanish].
+25/07/2019 10:00:23:718  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Assigning [5] to [SelectedLanguage]
+25/07/2019 10:00:23:719  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : SelectAll
+25/07/2019 10:00:43:639  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : StoreDTMF
+25/07/2019 10:00:43:639  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :SelectAll___confidence to complex: SelectAll:confidence  as [0.949999988079071]
+25/07/2019 10:00:43:639  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :SelectAll___inputmode to complex: SelectAll:inputmode  as [dtmf]
+25/07/2019 10:00:43:639  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :SelectAll___interpretation to complex: SelectAll:interpretation  as [4]
+25/07/2019 10:00:43:640  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :SelectAll___noinputcount to complex: SelectAll:noinputcount  as [0]
+25/07/2019 10:00:43:640  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :SelectAll___nomatchcount to complex: SelectAll:nomatchcount  as [0]
+25/07/2019 10:00:43:640  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :SelectAll___utterance to complex: SelectAll:utterance  as [4]
+25/07/2019 10:00:43:640  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :SelectAll___value to complex: SelectAll:value  as [4]
+25/07/2019 10:00:43:693  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : Speak
+25/07/2019 10:00:43:870  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : Record
+25/07/2019 10:00:48:294  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : StoreRecord
+25/07/2019 10:00:48:308  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [3752]
+25/07/2019 10:00:48:309  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_3977463148785024435.wav]
+25/07/2019 10:00:48:309  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [60046]
+25/07/2019 10:00:48:309  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+25/07/2019 10:00:48:360  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+25/07/2019 10:00:48:361  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : SetLanguageForASR
+25/07/2019 10:00:48:414  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : GoogleASR
+25/07/2019 10:00:50:340  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : ChkErrorASR
+25/07/2019 10:00:50:392  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+25/07/2019 10:00:50:392  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : [condition2] Expression [ASRErrorCount] Numeric Equal [4]
+25/07/2019 10:00:50:393  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : PlayAgain
+25/07/2019 10:00:50:465  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : Record
+25/07/2019 10:00:57:913  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : StoreRecord
+25/07/2019 10:00:57:936  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [2377]
+25/07/2019 10:00:57:936  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_2009373945869787406.wav]
+25/07/2019 10:00:57:937  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [38046]
+25/07/2019 10:00:57:937  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+25/07/2019 10:00:57:988  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+25/07/2019 10:00:57:988  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : SetLanguageForASR
+25/07/2019 10:00:58:040  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : GoogleASR
+25/07/2019 10:00:59:222  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : ChkErrorASR
+25/07/2019 10:00:59:274  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+25/07/2019 10:00:59:274  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : [condition2] Expression [ASRErrorCount] Numeric Equal [4]
+25/07/2019 10:00:59:275  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : PlayAgain
+25/07/2019 10:00:59:332  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : Record
+25/07/2019 10:01:03:421  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Using SCESession E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo servlet : AvayaDefaultDisconnectHandler
+25/07/2019 10:01:03:492  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Removing session from AvayaSessionTermination Servlet
+25/07/2019 10:01:03:493  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+25/07/2019 10:01:03:493  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : HTTP Session lost removing SCESession E336CA6D5EC9C5BB2829CDBEF525636C
+25/07/2019 10:01:03:494  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : SCESession Removed
+25/07/2019 10:01:03:495 DEBUG - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : Removing 1 session stack frames.
+25/07/2019 10:01:03:495  INFO - E336CA6D5EC9C5BB2829CDBEF525636C:/CumminsASR_Demo : ** Popped Stack Frame [/CumminsASR_Demo]
+25/07/2019 10:02:17:061  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : SCESession bound to HttpSession 447DDF7FF2A01CD551D344AB9367A202
+25/07/2019 10:02:17:061  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Browser Version 2.1.4, terminationURL enabled : true
+25/07/2019 10:02:17:063  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : Start
+25/07/2019 10:02:17:072  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : ** Pushed Stack Frame [/CumminsASR_Demo]
+25/07/2019 10:02:17:072 DEBUG - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Not able to save posted variable information [call_classification]
+25/07/2019 10:02:17:072  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___sessionid to complex: session:sessionid  as [sess7427610]
+25/07/2019 10:02:17:072  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+25/07/2019 10:02:17:675  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : runtime_platform : Desktop
+25/07/2019 10:02:17:675  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : runtime_asr : Desktop Microsoft Speech SAPI
+25/07/2019 10:02:17:684  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : MessageType is speech
+25/07/2019 10:02:17:694  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : LogFileIn
+25/07/2019 10:02:17:697  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+25/07/2019 10:02:17:697  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+25/07/2019 10:02:17:697  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+25/07/2019 10:02:17:697  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+25/07/2019 10:02:17:697  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+25/07/2019 10:02:17:697  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___aai to complex: session:aai  as []
+25/07/2019 10:02:17:698  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___ani to complex: session:ani  as [undefined]
+25/07/2019 10:02:17:698  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___calltag to complex: session:calltag  as [unknown]
+25/07/2019 10:02:17:698  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___channel to complex: session:channel  as [0]
+25/07/2019 10:02:17:698  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+25/07/2019 10:02:17:698  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+25/07/2019 10:02:17:699  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___dnis to complex: session:dnis  as [undefined]
+25/07/2019 10:02:17:699  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+25/07/2019 10:02:17:699  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___protocolname to complex: session:protocolname  as [pots]
+25/07/2019 10:02:17:700  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+25/07/2019 10:02:17:700  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+25/07/2019 10:02:17:700  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+25/07/2019 10:02:17:700  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___ucid to complex: session:ucid  as [undefined]
+25/07/2019 10:02:17:700  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___uui to complex: session:uui  as [unknown]
+25/07/2019 10:02:17:700  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+25/07/2019 10:02:17:700  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+25/07/2019 10:02:17:700  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+25/07/2019 10:02:17:701  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+25/07/2019 10:02:17:701  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+25/07/2019 10:02:17:701  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___videofps to complex: session:videofps  as [unknown]
+25/07/2019 10:02:17:702  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+25/07/2019 10:02:17:702  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+25/07/2019 10:02:17:702  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+25/07/2019 10:02:17:702  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+25/07/2019 10:02:17:703  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+25/07/2019 10:02:17:703  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+25/07/2019 10:02:17:703  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+25/07/2019 10:02:17:703  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+25/07/2019 10:02:17:704  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+25/07/2019 10:02:17:754 ERROR - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : sql Exception ---->writing to file
+25/07/2019 10:02:17:765  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : WelcomeAll
+25/07/2019 10:02:21:493  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : SetLangFromDTMF
+25/07/2019 10:02:21:493  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :WelcomeAll___confidence to complex: WelcomeAll:confidence  as [0.949999988079071]
+25/07/2019 10:02:21:494  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :WelcomeAll___inputmode to complex: WelcomeAll:inputmode  as [dtmf]
+25/07/2019 10:02:21:494  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :WelcomeAll___interpretation to complex: WelcomeAll:interpretation  as [2]
+25/07/2019 10:02:21:494  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :WelcomeAll___noinputcount to complex: WelcomeAll:noinputcount  as [0]
+25/07/2019 10:02:21:494  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :WelcomeAll___nomatchcount to complex: WelcomeAll:nomatchcount  as [0]
+25/07/2019 10:02:21:494  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :WelcomeAll___utterance to complex: WelcomeAll:utterance  as [2]
+25/07/2019 10:02:21:494  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :WelcomeAll___value to complex: WelcomeAll:value  as [2]
+25/07/2019 10:02:21:546  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : [condition1] Expression [WelcomeAll:value] Numeric Equal [2]
+25/07/2019 10:02:21:546  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Setting current language [english].
+25/07/2019 10:02:21:559  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Assigning [2] to [SelectedLanguage]
+25/07/2019 10:02:21:560  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : SelectAll
+25/07/2019 10:02:34:835  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : StoreDTMF
+25/07/2019 10:02:34:836  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :SelectAll___confidence to complex: SelectAll:confidence  as [0.949999988079071]
+25/07/2019 10:02:34:836  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :SelectAll___inputmode to complex: SelectAll:inputmode  as [dtmf]
+25/07/2019 10:02:34:836  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :SelectAll___interpretation to complex: SelectAll:interpretation  as [4]
+25/07/2019 10:02:34:837  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :SelectAll___noinputcount to complex: SelectAll:noinputcount  as [0]
+25/07/2019 10:02:34:837  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :SelectAll___nomatchcount to complex: SelectAll:nomatchcount  as [0]
+25/07/2019 10:02:34:837  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :SelectAll___utterance to complex: SelectAll:utterance  as [4]
+25/07/2019 10:02:34:837  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :SelectAll___value to complex: SelectAll:value  as [4]
+25/07/2019 10:02:34:889  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : Speak
+25/07/2019 10:02:34:996  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : Record
+25/07/2019 10:02:36:359  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : StoreRecord
+25/07/2019 10:02:36:378  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [877]
+25/07/2019 10:02:36:379  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_6635096175726402768.wav]
+25/07/2019 10:02:36:379  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [14046]
+25/07/2019 10:02:36:379  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+25/07/2019 10:02:36:431  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+25/07/2019 10:02:36:431  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : SetLanguageForASR
+25/07/2019 10:02:36:482  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : GoogleASR
+25/07/2019 10:02:37:787  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : ChkErrorASR
+25/07/2019 10:02:37:839  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+25/07/2019 10:02:37:839  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : [condition2] Expression [ASRErrorCount] Numeric Equal [4]
+25/07/2019 10:02:37:839  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : PlayAgain
+25/07/2019 10:02:37:943  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : Record
+25/07/2019 10:02:43:479  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Using SCESession 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo servlet : AvayaDefaultDisconnectHandler
+25/07/2019 10:02:43:550  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Removing session from AvayaSessionTermination Servlet
+25/07/2019 10:02:43:552  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+25/07/2019 10:02:43:552  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : HTTP Session lost removing SCESession 447DDF7FF2A01CD551D344AB9367A202
+25/07/2019 10:02:43:552  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : SCESession Removed
+25/07/2019 10:02:43:553 DEBUG - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : Removing 1 session stack frames.
+25/07/2019 10:02:43:554  INFO - 447DDF7FF2A01CD551D344AB9367A202:/CumminsASR_Demo : ** Popped Stack Frame [/CumminsASR_Demo]
+25/07/2019 10:12:45:435  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : SCESession bound to HttpSession 71BAFA5334A3490869B1666AB075D1F5
+25/07/2019 10:12:45:443  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Browser Version 2.1.4, terminationURL enabled : true
+25/07/2019 10:12:45:445  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : Start
+25/07/2019 10:12:45:476  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : ** Pushed Stack Frame [/CumminsASR_Demo]
+25/07/2019 10:12:45:484 DEBUG - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Not able to save posted variable information [call_classification]
+25/07/2019 10:12:45:484  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___sessionid to complex: session:sessionid  as [sess5454457]
+25/07/2019 10:12:45:484  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+25/07/2019 10:12:46:097  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : runtime_platform : Desktop
+25/07/2019 10:12:46:098  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : runtime_asr : Desktop Microsoft Speech SAPI
+25/07/2019 10:12:46:104  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : MessageType is speech
+25/07/2019 10:12:46:121  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : LogFileIn
+25/07/2019 10:12:46:125  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+25/07/2019 10:12:46:126  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+25/07/2019 10:12:46:126  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+25/07/2019 10:12:46:126  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+25/07/2019 10:12:46:126  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+25/07/2019 10:12:46:126  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___aai to complex: session:aai  as []
+25/07/2019 10:12:46:126  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___ani to complex: session:ani  as [undefined]
+25/07/2019 10:12:46:126  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___calltag to complex: session:calltag  as [unknown]
+25/07/2019 10:12:46:126  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___channel to complex: session:channel  as [0]
+25/07/2019 10:12:46:127  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+25/07/2019 10:12:46:127  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+25/07/2019 10:12:46:127  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___dnis to complex: session:dnis  as [undefined]
+25/07/2019 10:12:46:127  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+25/07/2019 10:12:46:127  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___protocolname to complex: session:protocolname  as [pots]
+25/07/2019 10:12:46:127  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+25/07/2019 10:12:46:127  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+25/07/2019 10:12:46:128  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+25/07/2019 10:12:46:128  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___ucid to complex: session:ucid  as [undefined]
+25/07/2019 10:12:46:128  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___uui to complex: session:uui  as [unknown]
+25/07/2019 10:12:46:128  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+25/07/2019 10:12:46:128  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+25/07/2019 10:12:46:128  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+25/07/2019 10:12:46:128  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+25/07/2019 10:12:46:128  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+25/07/2019 10:12:46:129  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___videofps to complex: session:videofps  as [unknown]
+25/07/2019 10:12:46:129  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+25/07/2019 10:12:46:129  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+25/07/2019 10:12:46:129  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+25/07/2019 10:12:46:129  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+25/07/2019 10:12:46:129  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+25/07/2019 10:12:46:130  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+25/07/2019 10:12:46:130  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+25/07/2019 10:12:46:130  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+25/07/2019 10:12:46:130  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+25/07/2019 10:12:46:184 ERROR - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : sql Exception ---->writing to file
+25/07/2019 10:12:46:212  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : WelcomeAll
+25/07/2019 10:12:55:400  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : SetLangFromDTMF
+25/07/2019 10:12:55:401  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :WelcomeAll___confidence to complex: WelcomeAll:confidence  as [0.949999988079071]
+25/07/2019 10:12:55:401  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :WelcomeAll___inputmode to complex: WelcomeAll:inputmode  as [dtmf]
+25/07/2019 10:12:55:401  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :WelcomeAll___interpretation to complex: WelcomeAll:interpretation  as [2]
+25/07/2019 10:12:55:401  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :WelcomeAll___noinputcount to complex: WelcomeAll:noinputcount  as [0]
+25/07/2019 10:12:55:401  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :WelcomeAll___nomatchcount to complex: WelcomeAll:nomatchcount  as [0]
+25/07/2019 10:12:55:401  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :WelcomeAll___utterance to complex: WelcomeAll:utterance  as [2]
+25/07/2019 10:12:55:401  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :WelcomeAll___value to complex: WelcomeAll:value  as [2]
+25/07/2019 10:12:55:457  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : [condition1] Expression [WelcomeAll:value] Numeric Equal [2]
+25/07/2019 10:12:55:461  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Setting current language [english].
+25/07/2019 10:12:55:466  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Assigning [2] to [SelectedLanguage]
+25/07/2019 10:12:55:468  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : SelectAll
+25/07/2019 10:12:59:238  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : StoreDTMF
+25/07/2019 10:12:59:239  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :SelectAll___confidence to complex: SelectAll:confidence  as [0.949999988079071]
+25/07/2019 10:12:59:239  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :SelectAll___inputmode to complex: SelectAll:inputmode  as [dtmf]
+25/07/2019 10:12:59:239  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :SelectAll___interpretation to complex: SelectAll:interpretation  as [1]
+25/07/2019 10:12:59:239  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :SelectAll___noinputcount to complex: SelectAll:noinputcount  as [0]
+25/07/2019 10:12:59:239  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :SelectAll___nomatchcount to complex: SelectAll:nomatchcount  as [0]
+25/07/2019 10:12:59:239  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :SelectAll___utterance to complex: SelectAll:utterance  as [1]
+25/07/2019 10:12:59:240  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :SelectAll___value to complex: SelectAll:value  as [1]
+25/07/2019 10:12:59:291  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : Speak
+25/07/2019 10:12:59:380  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : Record
+25/07/2019 10:13:01:377  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : StoreRecord
+25/07/2019 10:13:01:410  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [1502]
+25/07/2019 10:13:01:410  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_6038598856790046831.wav]
+25/07/2019 10:13:01:410  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [24046]
+25/07/2019 10:13:01:410  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+25/07/2019 10:13:01:461  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+25/07/2019 10:13:01:462  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : SetLanguageForASR
+25/07/2019 10:13:01:515  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : GoogleASR
+25/07/2019 10:13:02:768  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : ChkErrorASR
+25/07/2019 10:13:02:820  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+25/07/2019 10:13:02:820  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : [condition2] Expression [ASRErrorCount] Numeric Equal [4]
+25/07/2019 10:13:02:820  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : PlayAgain
+25/07/2019 10:13:02:915  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : Record
+25/07/2019 10:13:09:135  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : StoreRecord
+25/07/2019 10:13:09:172  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :Record___duration to complex: Record:duration  as [1627]
+25/07/2019 10:13:09:172  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :Record___value to complex: Record:value  as [http://localhost:8080/CumminsASR_Demo/data/temp/file_undefined_793899056373059797.wav]
+25/07/2019 10:13:09:172  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :Record___size to complex: Record:size  as [26046]
+25/07/2019 10:13:09:172  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Storing :Record___maxtime to complex: Record:maxtime  as [false]
+25/07/2019 10:13:09:223  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Assigning [Record:value] to [URL]
+25/07/2019 10:13:09:223  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : SetLanguageForASR
+25/07/2019 10:13:09:275  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : GoogleASR
+25/07/2019 10:13:10:209  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : ChkErrorASR
+25/07/2019 10:13:10:261  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : [condition1] Expression [ServerStatusASR] String Equal Ignorecase [1]
+25/07/2019 10:13:10:261  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : [condition2] Expression [ASRErrorCount] Numeric Equal [4]
+25/07/2019 10:13:10:261  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : PlayAgain
+25/07/2019 10:13:10:318  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : Record
+25/07/2019 10:13:14:246  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Using SCESession 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo servlet : AvayaDefaultDisconnectHandler
+25/07/2019 10:13:14:324  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Removing session from AvayaSessionTermination Servlet
+25/07/2019 10:13:14:325  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+25/07/2019 10:13:14:327  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : HTTP Session lost removing SCESession 71BAFA5334A3490869B1666AB075D1F5
+25/07/2019 10:13:14:327  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : SCESession Removed
+25/07/2019 10:13:14:328 DEBUG - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : Removing 1 session stack frames.
+25/07/2019 10:13:14:328  INFO - 71BAFA5334A3490869B1666AB075D1F5:/CumminsASR_Demo : ** Popped Stack Frame [/CumminsASR_Demo]

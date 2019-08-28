@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="NoMatch_Spn" version="1.0">
+    <phrase version="1.0">
+        <displayname>NoMatch_Spn</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>NoMatch_Spn.wav</audiofile>
+    </phrase>
+</phraseset>

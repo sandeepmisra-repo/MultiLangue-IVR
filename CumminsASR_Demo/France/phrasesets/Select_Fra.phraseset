@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="Select_Fra" version="1.0">
+    <phrase version="1.0">
+        <displayname>Select_Fra</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Select_Fra.wav</audiofile>
+    </phrase>
+</phraseset>

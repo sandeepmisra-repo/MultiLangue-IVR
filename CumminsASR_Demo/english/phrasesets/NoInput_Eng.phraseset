@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="NoInput_Eng" version="1.0">
+    <phrase version="1.0">
+        <displayname>NoInput_Eng</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>NoInput.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>NoInput_Eng_New</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>NoInput_Eng.wav</audiofile>
+    </phrase>
+</phraseset>

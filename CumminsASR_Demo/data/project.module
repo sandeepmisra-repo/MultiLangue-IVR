@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module category="OD Sample" descriptorversion="1.0" entrypoint="CumminsASR_Demo/Start" forcesubdialogcall="false" frameworkversion="07.21.05.02" iconlarge="icons/defaultapplicationlg.gif" iconsmall="icons/defaultapplicationsm.gif" modifyInputs="false" modifyOutputs="false" nature="com.avaya.sce.core.speechnature" outputmultipart="false" paramasnamelist="false" provider="AVAYA" submitmethod="get" version="1.0.0" webname="CumminsASR_Demo">
+    <description/>
+    <language name="english" root="en-us"/>
+    <language name="France" root="hi-in"/>
+    <language name="Germany" root="hi-in"/>
+    <language name="Spanish" root="hi-in"/>
+    <dependencies/>
+</module>

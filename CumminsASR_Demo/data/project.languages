@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProjectLanguages>
+    <language asr="en-us" localization="en-us" localizationVersion="3.1.2" name="english" stdPhrasesInstalled="false" stdPhrasesLocation="LOCAL" tts="en-us"/>
+    <language asr="hi-in" localization="hi-in" localizationVersion="3.1.1" name="France" stdPhrasesInstalled="true" stdPhrasesLocation="EXTERNAL" tts="hi-in"/>
+    <language asr="hi-in" localization="hi-in" localizationVersion="3.1.1" name="Germany" stdPhrasesInstalled="true" stdPhrasesLocation="LOCAL" tts="hi-in"/>
+    <language asr="hi-in" localization="hi-in" localizationVersion="3.1.1" name="Spanish" stdPhrasesInstalled="true" stdPhrasesLocation="LOCAL" tts="hi-in"/>
+</ProjectLanguages>

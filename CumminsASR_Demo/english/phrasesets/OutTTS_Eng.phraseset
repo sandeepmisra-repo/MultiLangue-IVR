@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="OutTTS_Eng" version="1.0">
+    <phrase version="1.0">
+        <displayname>YouHaveEntered_Eng</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>YouHaveEntered_Eng.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Confrim_Eng</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Confirm_Eng.wav</audiofile>
+    </phrase>
+</phraseset>
